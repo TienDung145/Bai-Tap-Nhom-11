@@ -1,0 +1,6 @@
+B2,Java Programming,Herbert Schildt,NonFiction,true
+B3,dế mèn,vũ,Fiction,true
+B4,Kiếm Lai,Vũ,Fiction,true
+B5,JavaPrograming,Vũ,NonFiction,true
+B6,CON GÀ,VŨ,NonFiction,true
+B1,Harry Potter,JK Rowling,Fiction,true
